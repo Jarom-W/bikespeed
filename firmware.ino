@@ -6,12 +6,10 @@
 #include <Preferences.h>
 #include <math.h>
 
-// ================= YOUR SETTINGS =================
-
 // Enter your working hotspot credentials.
 // Leave blank to use the direct BikeSpeed Wi-Fi network only.
 const char* HOTSPOT_SSID = "Meatball-Sub";
-const char* HOTSPOT_PASSWORD = "JwAwRw3*";
+const char* HOTSPOT_PASSWORD = "password";
 
 const char* BACKUP_SSID = "BikeSpeed";
 const char* BACKUP_PASSWORD = "WheelSpeed29";
