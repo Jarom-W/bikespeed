@@ -5,12 +5,12 @@ speed, trip, and odometer. It's fully open source so you can customize it any wa
 
 Required hardware to build what you see in the video:
 
-1x XAIO ESP32 C3 microcontroller board.
-1x MPU 9250 Gyro module
-2x 100k Ohm resistor
-1x 0.1 uF capacitor
-1x Simple electrical switch (I only had a triple switch on hand but all the switches are connected. A single switch works perfectly)
-1x 3.7V 1000 mAh LiPo Lithium Ion Battery
+-1x XAIO ESP32 C3 microcontroller board.
+-1x MPU 9250 Gyro module
+-2x 100k Ohm resistor
+-1x 0.1 uF capacitor
+-1x Simple electrical switch (I only had a triple switch on hand but all the switches are connected. A single switch works perfectly)
+-1x 3.7V 1000 mAh LiPo Lithium Ion Battery
 
 Wires, Soldering Equipment, and a board to assemble everything onto.+
 
